@@ -8,5 +8,7 @@ bash
 #minio/minio:RELEASE.2023-03-20T20-16-18Z
 #milvusdb/milvus:v2.3.3
 #openjdk:17.0.2-oraclelinux8
-ollama/ollama
-1panel/maxkb
+#ollama/ollama
+#1panel/maxkb
+nvcr.io/nvidia/k8s/cuda-sample:nbody
+
