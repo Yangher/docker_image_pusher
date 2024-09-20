@@ -10,5 +10,5 @@ bash
 #openjdk:17.0.2-oraclelinux8
 #ollama/ollama
 #1panel/maxkb
-nvcr.io/nvidia/k8s/cuda-sample:nbody
-
+#nvcr.io/nvidia/k8s/cuda-sample:nbody
+influxdb:latest
