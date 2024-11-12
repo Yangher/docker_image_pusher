@@ -11,4 +11,5 @@ bash
 #ollama/ollama
 #1panel/maxkb
 #nvcr.io/nvidia/k8s/cuda-sample:nbody
-influxdb:latest
+#influxdb:latest
+infiniflow/ragflow:v0.13.0
