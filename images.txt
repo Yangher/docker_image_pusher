@@ -12,4 +12,5 @@ bash
 #1panel/maxkb
 #nvcr.io/nvidia/k8s/cuda-sample:nbody
 #influxdb:latest
-infiniflow/ragflow:v0.13.0
+#infiniflow/ragflow:v0.13.0
+enmotech/opengauss:5.0.0
