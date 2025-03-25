@@ -14,4 +14,4 @@ bash
 #influxdb:latest
 #infiniflow/ragflow:v0.13.0
 #enmotech/opengauss:5.0.0
-postgres:15.7
+postgres:16.7
