@@ -14,4 +14,5 @@ bash
 #influxdb:latest
 #infiniflow/ragflow:v0.13.0
 #enmotech/opengauss:5.0.0
-postgres:16.7
+#postgres:16.7
+anapsix/alpine-java:8_server-jre_unlimited
